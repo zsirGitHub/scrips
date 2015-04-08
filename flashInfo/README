@@ -15,3 +15,5 @@
         ./flashinfo
     flash_info.py为python版本.
         python flash_info.py
+        python flash_info.py + input_file_name
+        python flash_info.py + input_file_name + output_file_name
